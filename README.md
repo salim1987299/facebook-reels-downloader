@@ -24,6 +24,8 @@ $ pip install -r requirements.txt
 ## Usage
 ```
 python reels.py <channel_name> <channel_reel_url>
+use this command
+python reels.py "channel_name" "channel_reel_url"
 ```
 
 ## For your Attention
